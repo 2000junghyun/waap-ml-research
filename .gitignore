@@ -19,3 +19,6 @@ venv/
 shared-data/
 data/
 **/data/
+
+# Ignore files
+ignore/
