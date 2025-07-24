@@ -1,0 +1,21 @@
+# Python cache file
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Log file
+*.log
+
+# Virtual env
+venv/
+
+# Environment variable
+.env
+
+# VS Code directory
+.vscode/
+
+# Large data files
+shared-data/
+data/
+**/data/
